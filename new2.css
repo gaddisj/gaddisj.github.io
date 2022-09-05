@@ -441,3 +441,8 @@ color: #A8A88D;
 {
 color: #8C8C73;
 }
+
+.jeopardy
+{
+list-style-image: url('star.gif');
+}
